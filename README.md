@@ -1,2 +1,2 @@
-# Dancing-Grandpa
-AR Dancing Grandpa
+# Art Demo
+AR Art
